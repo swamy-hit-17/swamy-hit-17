@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swamy-hit-17
 - 👀 I’m interested in ... Programming
-- 🌱 I’m currently learning ... PHP ( known JAVA and core Python)
+- 🌱 I’m currently working  ... PHP ( known JAVA and core Python)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... swamy-hit-17 (on github)
 
